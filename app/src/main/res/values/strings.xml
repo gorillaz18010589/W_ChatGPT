@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">W_ChatGPT</string>
+    <string name="s_please_input_the_question">請輸入您的問題</string>
+    <string name="s_welcome_msg">歡迎使用ChatGPT,並輸入您要詢問的問題～</string>
 </resources>
